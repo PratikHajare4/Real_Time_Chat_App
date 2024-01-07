@@ -19,11 +19,6 @@ ChatApp for messaging between Users. It has User Authentication and user Room Fe
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/samartha5611/ChatApp.git
-```
 
 Install dependencies
 
